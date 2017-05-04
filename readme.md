@@ -90,73 +90,8 @@
 手动备份不超过15个，自动备份不超过5个（发布自动备份，更换模板提示备份）
 
 ## 里程碑
-1. 模板定义、模板theme/配色 完成
+1. 完成模板定义、模板theme/配色（已完成）
+2. 完成页面布局管理、模块拖动新增和移动（已完成）
+3. 完成页面模块的装修、页面的配置（未完成）
+4. 完成页面备份、应用模板/备份（未完成）
 
-
-目标：完成布局管理和页面编辑，初步设想为布局管理中拖动模块和布局，在页面编辑中编辑模块数据。
-
-
-
-```
-【GET】/module/newModuleOpt.htm
-opt:add
-layout:16344756864-main-1
-width:750
-module_comp_id:5003
-sid:410625239
-pageType:4
-pageId:1455761552
-sectionName:designLayout
-
-message: "操作成功", state: "1", data: {moduleId: 16364570136}
-
-【POST】/module/newModuleOpt.htm
-
-【Query String Paramters】
-pageType:4
-pageId:1455761552
-【Form Data】
-opt:add
-width:750
-module_comp_id:5003
-layout:16344756864-main-1
-【返回】
-<div class="J_TModule" data-widgetid="16364532458"  id="shop16364532458"  data-componentid="5003"  data-spm='110.0.5003-16364532458'  microscope-data='5003-16364532458' data-title="自定义内容区" data-context="b950-b190-b750-b550-f950" data-ismove="1" data-isdel="1" data-isedit="1" data-isadd="1" data-width="880" data-uri="/module/moduleForm.htm?widgetId=16364532458&sid=410625239&pageId=1455761552" data-spm='110.0.5003-16364532458'  microscope-data='5003-16364532458'  >	    	<div class="skin-box tb-module tshop-pbsm tshop-pbsm-shop-self-defined" style="position:relative">
-	
-        <s class="skin-box-tp"><b></b></s>
-		        <div class="skin-box-hd">
-            <h3>
-				<span>
-    			    						    					自定义内容区
-						    								</span>
-			</h3>
-        </div>
-		        <div class="skin-box-bd clear-fix">
-            <span>
-					    			<p style="text-align: center">&nbsp;</p>
-                    <p style="text-align: center">&nbsp;自定义内容，可以用来展示店铺特色的宝贝、活动。</p>
-                    <p style="text-align: center">&nbsp;</p>
-                    <p style="text-align: center">&nbsp;</p>
-							</span>
-        </div>
-        <s class="skin-box-bt"><b></b></s>
-	</div>
-</div>
-```
-
-<!-- false -->
-<!-- pageDO是：SitePageDO[id=1455494515,pageName=首页,pageType=1,taeSiteInstanceId=417794675 pageId1:1455494515 pagePartsDO: -->
-<!-- isLazy：, pageType是：1 pageId2:1455494515 appID:03068  -->
-<!-- requestUri: /module/modulePreview.htm -->
-<!-- regionWidth:  -->
-
-- grid-m (main)
-- grid-sm (sub-main)
-- grid-ms (main-sub)
-
-布局管理
-https://siteadmin.taobao.com/layout.htm?spm=a21ar.c-design.0.0.0NVGVQ&sid=417794675&pageId=1455494515
-页面预览
-https://siteadmin.taobao.com/canvas.htm?sid=417794675&pageId=1455494515
-模块编辑页
-https://siteadmin.taobao.com/module/edit/itemRecommend.htm?widgetId=16364825072&sid=417794675&pageId=1455494515
