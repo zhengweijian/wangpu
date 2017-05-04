@@ -1,0 +1,52 @@
+[
+  {
+    "name": "微博通知",
+    "value": "WEIBO",
+    "isopen": 1,
+    "sub": [
+      {
+        "name": "评论",
+        "value": "WEIBO-cmt",
+        "isopen": 1
+      },
+      {
+        "name": "@我的微博",
+        "value": "WEIBO-mention_status",
+        "isopen": 1
+      },
+      {
+        "name": "私信",
+        "value": "WEIBO-dm",
+        "isopen": 1
+      },
+      {
+        "name": "粉丝",
+        "value": "WEIBO-follower",
+        "isopen": 1
+      },
+      {
+        "name": "@我的评论",
+        "value": "WEIBO-mention_cmt",
+        "isopen": 1
+      }
+    ]
+  },
+  {
+    "name": "店铺公告",
+    "value": "SHOP_NOTICE",
+    "isopen": 1,
+    "sub": []
+  },
+  {
+    "name": "后院通知",
+    "value": "HOUYUAN",
+    "isopen": 1,
+    "sub": []
+  },
+  {
+    "name": "账户提醒",
+    "value": "ACCOUNT_REMIND",
+    "isopen": 1,
+    "sub": []
+  }
+]

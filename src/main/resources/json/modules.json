@@ -1,0 +1,340 @@
+{
+  "moduleCategoryList": [
+    {
+      "moduleInfoList": [
+        {
+          "name": "宝贝推荐",
+          "icon": "https://img.alicdn.com/tps/TB1yujwMXXXXXXjXXXXXXXXXXXX-38-38.png",
+          "supportType": -1,
+          "moduleId": 4004,
+          "supportWidth": "b950-b190-b750-b550",
+          "tips": "",
+          "isMove": "1",
+          "isDel": "1",
+          "enable": true,
+          "maxAppend": 40
+        },
+        {
+          "name": "宝贝排行",
+          "icon": "//gdp.alicdn.com/tps/i4/TB1ZUHFGVXXXXcKXFXX4HBZGFXX-38-38.gif",
+          "supportType": -1,
+          "moduleId": 4023,
+          "supportWidth": "b190",
+          "tips": "",
+          "isMove": "1",
+          "isDel": "1",
+          "enable": true,
+          "maxAppend": 40
+        },
+        {
+          "name": "默认分类",
+          "icon": "//gdp.alicdn.com/tps/i2/TB1OjqhGVXXXXXHXpXX4HBZGFXX-38-38.gif",
+          "supportType": -1,
+          "moduleId": 4010,
+          "supportWidth": "b190",
+          "tips": "",
+          "isMove": "1",
+          "isDel": "1",
+          "enable": true,
+          "maxAppend": 40
+        },
+        {
+          "name": "个性分类",
+          "icon": "//gdp.alicdn.com/tps/i3/TB1o6YIGVXXXXcmXpXX4HBZGFXX-38-38.gif",
+          "supportType": -1,
+          "moduleId": 5842,
+          "supportWidth": "b190",
+          "tips": "",
+          "isMove": "1",
+          "isDel": "1",
+          "enable": true,
+          "maxAppend": 40
+        },
+        {
+          "name": "自定义区",
+          "icon": "//gdp.alicdn.com/tps/i2/TB1TyvMGVXXXXXKXXXX4HBZGFXX-38-38.gif",
+          "supportType": -1,
+          "moduleId": 5003,
+          "supportWidth": "b950-b190-b750-b550-f950",
+          "tips": "",
+          "isMove": "1",
+          "isDel": "1",
+          "enable": true,
+          "maxAppend": 40
+        },
+        {
+          "name": "图片轮播",
+          "icon": "//gdp.alicdn.com/tps/i1/TB13DzDGVXXXXcGXVXX4HBZGFXX-38-38.gif",
+          "supportType": -1,
+          "moduleId": 4024,
+          "supportWidth": "b950-b190-b750-b550",
+          "tips": "",
+          "isMove": "1",
+          "isDel": "1",
+          "enable": true,
+          "maxAppend": 40
+        },
+        {
+          "name": "友情链接",
+          "icon": "//gdp.alicdn.com/tps/i1/TB19VOpGVXXXXagaXXX4HBZGFXX-38-38.gif",
+          "supportType": -1,
+          "moduleId": 4067,
+          "supportWidth": "b950-b190",
+          "tips": "",
+          "isMove": "1",
+          "isDel": "1",
+          "enable": true,
+          "maxAppend": 1
+        },
+        {
+          "name": "客服中心",
+          "icon": "//gdp.alicdn.com/tps/i1/TB1vtHKGVXXXXcWXXXX4HBZGFXX-38-38.gif",
+          "supportType": -1,
+          "moduleId": 4073,
+          "supportWidth": "b190",
+          "tips": "",
+          "isMove": "1",
+          "isDel": "1",
+          "enable": true,
+          "maxAppend": 1
+        },
+        {
+          "name": "生意参谋",
+          "icon": "//img.alicdn.com/tps/i2/TB1UcMPHpXXXXaSXVXX7spZGFXX-38-38.png",
+          "supportType": -1,
+          "moduleId": 4071,
+          "supportWidth": "b190",
+          "tips": "",
+          "isMove": "1",
+          "isDel": "1",
+          "enable": true,
+          "maxAppend": 1
+        },
+        {
+          "name": "无线二维码",
+          "icon": "//gdp.alicdn.com/tps/i4/TB1oADAGVXXXXX4apXX4HBZGFXX-38-38.gif",
+          "supportType": -1,
+          "moduleId": 4069,
+          "supportWidth": "b190",
+          "tips": "",
+          "isMove": "1",
+          "isDel": "1",
+          "enable": true,
+          "maxAppend": 1
+        },
+        {
+          "name": "充值中心（淘宝客）",
+          "icon": "//gdp.alicdn.com/tps/i3/TB1MRzLGVXXXXauXXXX4HBZGFXX-38-38.gif",
+          "supportType": -1,
+          "moduleId": 4066,
+          "supportWidth": "b190",
+          "tips": "",
+          "isMove": "1",
+          "isDel": "1",
+          "enable": true,
+          "maxAppend": 1
+        },
+        {
+          "name": "宝贝搜索",
+          "icon": "//gdp.alicdn.com/tps/i2/TB1_SDIGVXXXXboXpXX4HBZGFXX-38-38.gif",
+          "supportType": -1,
+          "moduleId": 4031,
+          "supportWidth": "b950-b190-b750-b550",
+          "tips": "",
+          "isMove": "1",
+          "isDel": "1",
+          "enable": true,
+          "maxAppend": 40
+        },
+        {
+          "name": "小黄条（购物券）",
+          "icon": "//img.alicdn.com/tps/i2/TB1TyvMGVXXXXXKXXXX4HBZGFXX-38-38.gif",
+          "supportType": -1,
+          "moduleId": 4968,
+          "supportWidth": "b950-b990",
+          "tips": "",
+          "isMove": "0",
+          "isDel": "1",
+          "enable": true,
+          "maxAppend": 1
+        },
+        {
+          "name": "满返",
+          "icon": "//img.alicdn.com/tps/i2/TB1TyvMGVXXXXXKXXXX4HBZGFXX-38-38.gif",
+          "supportType": -1,
+          "moduleId": 4811,
+          "supportWidth": "b950-b990",
+          "tips": "",
+          "isMove": "0",
+          "isDel": "1",
+          "enable": true,
+          "maxAppend": 1
+        },
+        {
+          "name": "满减",
+          "icon": "//img.alicdn.com/tps/i2/TB1TyvMGVXXXXXKXXXX4HBZGFXX-38-38.gif",
+          "supportType": -1,
+          "moduleId": 4983,
+          "supportWidth": "b950-b990",
+          "tips": "",
+          "isMove": "0",
+          "isDel": "1",
+          "enable": true,
+          "maxAppend": 1
+        },
+        {
+          "name": "全屏宽图",
+          "icon": "https://img.alicdn.com/tps/TB16aG_MXXXXXcRXFXXXXXXXXXX-38-38.png",
+          "supportType": -1,
+          "moduleId": 3995,
+          "supportWidth": "b950-b1920",
+          "tips": "该功能为智能版专享功能。可对电脑端店铺进行宽屏装修@立即开通@https://fuwu.taobao.com/ser/detail.html?service_code=App_Service_W_Shop",
+          "isMove": "1",
+          "isDel": "1",
+          "enable": false,
+          "maxAppend": 5
+        },
+        {
+          "name": "购物券",
+          "icon": "//img.alicdn.com/tps/i2/TB1TyvMGVXXXXXKXXXX4HBZGFXX-38-38.gif",
+          "supportType": -1,
+          "moduleId": 4815,
+          "supportWidth": "b950-b750",
+          "tips": "",
+          "isMove": "1",
+          "isDel": "1",
+          "enable": true,
+          "maxAppend": 1
+        },
+        {
+          "name": "红包",
+          "icon": "//img.alicdn.com/tps/TB1P.AEKFXXXXcZXXXXXXXXXXXX-80-80.jpg",
+          "supportType": -1,
+          "moduleId": 4814,
+          "supportWidth": "b950-b750",
+          "tips": "",
+          "isMove": "1",
+          "isDel": "1",
+          "enable": true,
+          "maxAppend": 1
+        },
+        {
+          "name": "flash模板",
+          "icon": "//gdp.alicdn.com/tps/i4/TB1lwHMGVXXXXXMXXXX4HBZGFXX-38-38.gif",
+          "supportType": -1,
+          "moduleId": 4014,
+          "supportWidth": "b950-b190-b750",
+          "tips": "",
+          "isMove": "1",
+          "isDel": "1",
+          "enable": true,
+          "maxAppend": 20
+        },
+        {
+          "name": "全屏轮播",
+          "icon": "//img.alicdn.com/tps/i2/TB1TyvMGVXXXXXKXXXX4HBZGFXX-38-38.gif",
+          "supportType": -1,
+          "moduleId": 4001,
+          "supportWidth": "b950-b1920",
+          "tips": "该功能为智能版专享功能。可对电脑端店铺进行宽屏装修@立即开通@https://fuwu.taobao.com/ser/detail.html?service_code=App_Service_W_Shop",
+          "isMove": "1",
+          "isDel": "1",
+          "enable": false,
+          "maxAppend": 1
+        },
+        {
+          "name": "公益广告",
+          "icon": "//gdp.alicdn.com/tps/i2/TB1cxjEGVXXXXbzXVXX4HBZGFXX-38-38.gif",
+          "supportType": -1,
+          "moduleId": 4078,
+          "supportWidth": "b950-b190-b750-b550",
+          "tips": "",
+          "isMove": "1",
+          "isDel": "1",
+          "enable": true,
+          "maxAppend": 10
+        },
+        {
+          "name": "店铺招牌",
+          "icon": "//gdp.alicdn.com/tps/i3/TB1apjLGVXXXXbDXXXX4HBZGFXX-38-38.gif",
+          "supportType": -1,
+          "moduleId": 5001,
+          "supportWidth": "h950",
+          "tips": "",
+          "isMove": "1",
+          "isDel": "1",
+          "enable": true,
+          "maxAppend": 1
+        }
+      ],
+      "addWidth": "all",
+      "category": "基础模块"
+    },
+    {
+      "moduleInfoList": [
+        {
+          "name": "宝贝排行榜（个性化）",
+          "icon": "//gdp.alicdn.com/L1/142/1078206/modules/tshop-um-item-TopList/assets/images/default-thumbnail.png",
+          "supportType": -1,
+          "moduleId": 137644,
+          "supportWidth": "b950-h950-f950",
+          "tips": "",
+          "isMove": "1",
+          "isDel": "1",
+          "enable": true,
+          "maxAppend": -1
+        },
+        {
+          "name": "特价专区",
+          "icon": "//gdp.alicdn.com/L1/142/1078206/modules/tshop-um-item-recommend/assets/images/default-thumbnail.png",
+          "supportType": -1,
+          "moduleId": 137712,
+          "supportWidth": "b950-h950-f950",
+          "tips": "",
+          "isMove": "1",
+          "isDel": "1",
+          "enable": true,
+          "maxAppend": -1
+        },
+        {
+          "name": "宝贝分类（横向）",
+          "icon": "//gdp.alicdn.com/L1/142/1078206/modules/tshop-um-item-category/assets/images/default-thumbnail.png",
+          "supportType": -1,
+          "moduleId": 137645,
+          "supportWidth": "b950-h950-f950",
+          "tips": "",
+          "isMove": "1",
+          "isDel": "1",
+          "enable": true,
+          "maxAppend": -1
+        }
+      ],
+      "addWidth": "all",
+      "category": "设计师模块"
+    }
+  ],
+  "supportWidthListDesc": [
+    {
+      "wName": "1920",
+      "wValue": "1920"
+    },
+    {
+      "wName": "950",
+      "wValue": "950"
+    },
+    {
+      "wName": "190",
+      "wValue": "190"
+    },
+    {
+      "wName": "750",
+      "wValue": "750"
+    }
+  ],
+  "supportWidthList": [
+    190,
+    750,
+    1920,
+    950
+  ]
+}

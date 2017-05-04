@@ -1,0 +1,69 @@
+{
+  "message": "获取成功",
+  "state": "1",
+  "messages": "获取成功;",
+  "data": {
+    "templateList": [
+      {
+        "exceed": false,
+        "bakId": 1416340434,
+        "backUpName": "22",
+        "backUpTime": "2017-04-20 09:09:05",
+        "backUpDesc": "33",
+        "isOldTemplateBak": false,
+        "suitable": false,
+        "isBackUpTooOld": false,
+        "hasUse": false,
+        "isSysBack": false
+      },
+      {
+        "exceed": false,
+        "bakId": 1416343614,
+        "backUpName": "11",
+        "backUpTime": "2017-04-20 09:07:48",
+        "backUpDesc": "22",
+        "isOldTemplateBak": false,
+        "suitable": false,
+        "isBackUpTooOld": false,
+        "hasUse": false,
+        "isSysBack": false
+      },
+      {
+        "exceed": false,
+        "bakId": 1416336068,
+        "backUpName": "系统备份（发布装修）",
+        "backUpTime": "2017-04-20 09:05:53",
+        "backUpDesc": "系统最多保留最近五次的发布装修备份，应用该备份可以恢复到备份时的装修数据状态。",
+        "isOldTemplateBak": false,
+        "suitable": false,
+        "isBackUpTooOld": false,
+        "hasUse": false,
+        "isSysBack": true//系统备份
+      },
+      {
+        "exceed": false,
+        "bakId": 1416018899,
+        "backUpName": "工人有力量",
+        "backUpTime": "2017-04-19 14:44:19",
+        "isOldTemplateBak": false,
+        "suitable": false,
+        "isBackUpTooOld": false,
+        "hasUse": false,
+        "isSysBack": false
+      },
+      {
+        "exceed": false,
+        "bakId": 1415648681,
+        "backUpName": "店铺备份",
+        "backUpTime": "2017-04-18 17:08:34",
+        "isOldTemplateBak": false,
+        "suitable": false,
+        "isBackUpTooOld": false,
+        "hasUse": false,
+        "isSysBack": false
+      }
+    ]
+  },
+  "operatorCode": "0"
+}
+

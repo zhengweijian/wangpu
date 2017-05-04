@@ -1,0 +1,331 @@
+{
+  "message": "获取成功",
+  "state": "1",
+  "messages": "获取成功;",
+  "data": {
+    "pageStruct": {
+      "hd": [
+        {
+          "layoutCompId": 23,
+          "layoutWidgetId": 16364825064,
+          "cssName": "grid-m",
+          "main": [
+            {
+              "moduleId": 5002,
+              "moduleWidgetId": 16364825066,
+              "title": "导航",
+              "toolBar": {
+                "context": "h950",
+                "ismove": "1",
+                "isdel": "0",
+                "isedit": "1",
+                "isadd": "1",
+                "spm": "'110.0.5002-16364825066'",
+                "microscope_data": "'5002-16364825066'",
+                "uri": "/module/moduleForm.htm?widgetId=16364825066&sid=417794675&pageId=1455494515",
+                "width": "650"
+              }
+            },
+            {
+              "moduleId": 5001,
+              "moduleWidgetId": 16364825065,
+              "title": "店铺招牌",
+              "toolBar": {
+                "context": "h950",
+                "ismove": "1",
+                "isdel": "1",
+                "isedit": "1",
+                "isadd": "1",
+                "spm": "'110.0.5001-16364825065'",
+                "microscope_data": "'5001-16364825065'",
+                "uri": "/module/moduleForm.htm?widgetId=16364825065&sid=417794675&pageId=1455494515",
+                "width": "909"
+              }
+            }
+          ],
+          "layoutBar": {
+            "max": 2
+          }
+        }
+      ],
+      "bd": [
+        {
+          "layoutCompId": 231,
+          "layoutWidgetId": 16364825070,
+          "cssName": "grid-m0",
+          "main": [
+            {
+              "moduleId": 4024,
+              "moduleWidgetId": 16364825071,
+              "title": "图片轮播",
+              "toolBar": {
+                "context": "b950-b190-b750-b550",
+                "ismove": "1",
+                "isdel": "1",
+                "isedit": "1",
+                "isadd": "1",
+                "spm": "'110.0.4024-16364825071'",
+                "microscope_data": "'4024-16364825071'",
+                "uri": "/module/moduleForm.htm?widgetId=16364825071&sid=417794675&pageId=1455494515",
+                "width": "773"
+              }
+            },
+            {
+              "moduleId": 4004,
+              "moduleWidgetId": 16364825072,
+              "title": "宝贝推荐",
+              "toolBar": {
+                "context": "b950-b190-b750-b550",
+                "ismove": "1",
+                "isdel": "1",
+                "isedit": "1",
+                "isadd": "1",
+                "needwidth": "1",
+                "renderwmove": "1",
+                "renderurl": "//siteadmin.taobao.com/module/modulePreview.htm?widgetId=16364825072&sid=417794675&pageId=1455494515",
+                "spm": "'110.0.4004-16364825072'",
+                "microscope_data": "'4004-16364825072'",
+                "uri": "//siteadmin.taobao.com/module/edit/itemRecommend.htm?widgetId=16364825072&sid=417794675&pageId=1455494515",
+                "width": "800"
+              }
+            }
+          ],
+          "layoutBar": {}
+        },
+        {
+          "layoutCompId": 1,
+          "layoutWidgetId": 16364825073,
+          "cssName": "grid-s5m0",
+          "sub": [
+            {
+              "moduleId": 4023,
+              "moduleWidgetId": 16364825074,
+              "title": "宝贝排行榜",
+              "toolBar": {
+                "context": "b190",
+                "ismove": "1",
+                "isdel": "1",
+                "isedit": "1",
+                "isadd": "1",
+                "spm": "'110.0.4023-16364825074'",
+                "microscope_data": "'4023-16364825074'",
+                "uri": "/module/moduleForm.htm?widgetId=16364825074&sid=417794675&pageId=1455494515"
+              }
+            },
+            {
+              "moduleId": 5003,
+              "moduleWidgetId": 16373073371,
+              "title": "自定义内容区",
+              "toolBar": {
+                "context": "b950-b190-b750-b550-f950",
+                "ismove": "1",
+                "isdel": "1",
+                "isedit": "1",
+                "isadd": "1",
+                "spm": "'110.0.5003-16373073371'",
+                "microscope_data": "'5003-16373073371'",
+                "uri": "/module/moduleForm.htm?widgetId=16373073371&sid=417794675&pageId=1455494515",
+                "width": "880"
+              }
+            },
+            {
+              "moduleId": 4010,
+              "moduleWidgetId": 16364825075,
+              "title": "宝贝分类（竖向）",
+              "toolBar": {
+                "context": "b190",
+                "ismove": "1",
+                "isdel": "1",
+                "isedit": "1",
+                "isadd": "1",
+                "isTarget": "1",
+                "spm": "'110.0.4010-16364825075'",
+                "microscope_data": "'4010-16364825075'",
+                "uri": "//siteadmin.taobao.com/category/index.htm?sid=417794675",
+                "width": "720"
+              }
+            }
+          ],
+          "main": [
+            {
+              "moduleId": 4031,
+              "moduleWidgetId": 16364825076,
+              "title": "搜索店内宝贝",
+              "toolBar": {
+                "context": "b950-b190-b750-b550",
+                "ismove": "1",
+                "isdel": "1",
+                "isedit": "1",
+                "isadd": "1",
+                "spm": "'110.0.4031-16364825076'",
+                "microscope_data": "'4031-16364825076'",
+                "uri": "/module/moduleForm.htm?widgetId=16364825076&sid=417794675&pageId=1455494515"
+              }
+            },
+            {
+              "moduleId": 4024,
+              "moduleWidgetId": 16364825077,
+              "title": "图片轮播",
+              "toolBar": {
+                "context": "b950-b190-b750-b550",
+                "ismove": "1",
+                "isdel": "1",
+                "isedit": "1",
+                "isadd": "1",
+                "spm": "'110.0.4024-16364825077'",
+                "microscope_data": "'4024-16364825077'",
+                "uri": "/module/moduleForm.htm?widgetId=16364825077&sid=417794675&pageId=1455494515",
+                "width": "773"
+              }
+            },
+            {
+              "moduleId": 5003,
+              "moduleWidgetId": 16377677678,
+              "title": "自定义内容区",
+              "toolBar": {
+                "context": "b950-b190-b750-b550-f950",
+                "ismove": "1",
+                "isdel": "1",
+                "isedit": "1",
+                "isadd": "1",
+                "spm": "'110.0.5003-16377677678'",
+                "microscope_data": "'5003-16377677678'",
+                "uri": "/module/moduleForm.htm?widgetId=16377677678&sid=417794675&pageId=1455494515",
+                "width": "880"
+              }
+            },
+            {
+              "moduleId": 4004,
+              "moduleWidgetId": 16364825078,
+              "title": "宝贝推荐",
+              "toolBar": {
+                "context": "b950-b190-b750-b550",
+                "ismove": "1",
+                "isdel": "1",
+                "isedit": "1",
+                "isadd": "1",
+                "needwidth": "1",
+                "renderwmove": "1",
+                "renderurl": "//siteadmin.taobao.com/module/modulePreview.htm?widgetId=16364825078&sid=417794675&pageId=1455494515",
+                "spm": "'110.0.4004-16364825078'",
+                "microscope_data": "'4004-16364825078'",
+                "uri": "//siteadmin.taobao.com/module/edit/itemRecommend.htm?widgetId=16364825078&sid=417794675&pageId=1455494515",
+                "width": "800"
+              }
+            },
+            {
+              "moduleId": 5003,
+              "moduleWidgetId": 16364825079,
+              "title": "自定义内容区",
+              "toolBar": {
+                "context": "b950-b190-b750-b550-f950",
+                "ismove": "1",
+                "isdel": "1",
+                "isedit": "1",
+                "isadd": "1",
+                "spm": "'110.0.5003-16364825079'",
+                "microscope_data": "'5003-16364825079'",
+                "uri": "/module/moduleForm.htm?widgetId=16364825079&sid=417794675&pageId=1455494515",
+                "width": "880"
+              }
+            }
+          ],
+          "layoutBar": {}
+        },
+        {
+          "layoutCompId": 228,
+          "layoutWidgetId": 16378972343,
+          "cssName": "grid-m0s5",
+          "sub": [
+            {
+              "moduleId": 5003,
+              "moduleWidgetId": 16378884954,
+              "title": "自定义内容区",
+              "toolBar": {
+                "context": "b950-b190-b750-b550-f950",
+                "ismove": "1",
+                "isdel": "1",
+                "isedit": "1",
+                "isadd": "1",
+                "spm": "'110.0.5003-16378884954'",
+                "microscope_data": "'5003-16378884954'",
+                "uri": "/module/moduleForm.htm?widgetId=16378884954&sid=417794675&pageId=1455494515",
+                "width": "880"
+              }
+            }
+          ],
+          "main": [
+            {
+              "moduleId": 4004,
+              "moduleWidgetId": 16379048026,
+              "title": "宝贝推荐",
+              "toolBar": {
+                "context": "b950-b190-b750-b550",
+                "ismove": "1",
+                "isdel": "1",
+                "isedit": "1",
+                "isadd": "1",
+                "needwidth": "1",
+                "renderwmove": "1",
+                "renderurl": "//siteadmin.taobao.com/module/modulePreview.htm?widgetId=16379048026&sid=417794675&pageId=1455494515",
+                "spm": "'110.0.4004-16379048026'",
+                "microscope_data": "'4004-16379048026'",
+                "uri": "//siteadmin.taobao.com/module/edit/itemRecommend.htm?widgetId=16379048026&sid=417794675&pageId=1455494515",
+                "width": "800"
+              }
+            }
+          ],
+          "layoutBar": {}
+        }
+      ],
+      "ft": [
+        {
+          "layoutCompId": 33,
+          "layoutWidgetId": 16364825067,
+          "cssName": "grid-m",
+          "main": [],
+          "layoutBar": {
+            "max": 1
+          }
+        }
+      ]
+    },
+    "pageRule": {
+      "maxModule": 40,
+      "supportLayouts": {
+        "sm": [
+          {
+            "cssName": "grid-s5m0",
+            "layoutCompId": 1
+          },
+          {
+            "cssName": "grid-m0s5",
+            "layoutCompId": 228
+          }
+        ],
+        "m": [
+          {
+            "cssName": "grid-m0",
+            "layoutCompId": 231
+          }
+        ],
+        "sme": [
+          {
+            "cssName": "grid-s5m0e5",
+            "layoutCompId": 20
+          },
+          {
+            "cssName": "grid-m0s5e5",
+            "layoutCompId": 229
+          },
+          {
+            "cssName": "grid-s5e5m0",
+            "layoutCompId": 230
+          }
+        ]
+      },
+      "maxLayout": 5
+    }
+  },
+  "operatorCode": "0"
+}

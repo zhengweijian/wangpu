@@ -1,0 +1,64 @@
+{
+  "message": "获取成功",
+  "state": "1",
+  "messages": "获取成功;",
+  "data": {
+    "total": 3,
+    "templateList": [
+      {
+        "name": "简约时尚官方模板",
+        "id": 206531,
+        "owner": "淘宝官方",
+        "productId": 20074874,
+        "price": "免费",
+        "inUse": true,
+        "thumbnailUrl": "//gdp.alicdn.com/L1/142/1078206/assets/images/default-thumbnail.png",
+        "exceed": false,
+        "applyUrl": "//siteadmin.taobao.com/jsonResult.htm?_input_charset=GBK&action=template/SiteInstanceAction&event_submit_do_rightNowApplyTemplate=true&sid=410625239&ajax=true&opt=1&_tb_token_=CwBNwhHahj9ew5Ay5eAl&tid=206531",
+        "applySites": "专业版店铺",
+        "deadLineTime": "永久使用",
+        "suitable": true,
+        "hasUse": false,
+        "isBackUpTooOld": false,
+        "isOldTemplateBak": false
+      },
+      {
+        "name": "动感红官方模板",
+        "id": 201340,
+        "owner": "淘宝官方",
+        "productId": 1197714,
+        "price": "免费",
+        "inUse": false,
+        "thumbnailUrl": "//gdp.alicdn.com/L1/142/1016304/assets/images/bigthumb.jpg",
+        "exceed": false,
+        "applyUrl": "//siteadmin.taobao.com/jsonResult.htm?_input_charset=GBK&action=template/SiteInstanceAction&event_submit_do_rightNowApplyTemplate=true&sid=410625239&ajax=true&opt=1&_tb_token_=CwBNwhHahj9ew5Ay5eAl&tid=201340",
+        "applySites": "专业版店铺",
+        "deadLineTime": "永久使用",
+        "suitable": true,
+        "hasUse": false,
+        "isBackUpTooOld": false,
+        "isOldTemplateBak": false
+      },
+      {
+        "name": "收费店铺官方模板",
+        "id": 10101,
+        "owner": "淘宝官方",
+        "productId": 10101,
+        "price": "免费",
+        "inUse": false,
+        "thumbnailUrl": "//gdp.alicdn.com/tps/i4/T1gonBXopbXXcllE.T-336-500.png",
+        "exceed": false,
+        "applyUrl": "//siteadmin.taobao.com/jsonResult.htm?_input_charset=GBK&action=template/SiteInstanceAction&event_submit_do_rightNowApplyTemplate=true&sid=410625239&ajax=true&opt=1&_tb_token_=CwBNwhHahj9ew5Ay5eAl&tid=10101",
+        "applySites": "专业版店铺",
+        "deadLineTime": "永久使用",
+        "suitable": true,
+        "hasUse": false,
+        "isBackUpTooOld": false,
+        "isOldTemplateBak": false
+      }
+    ],
+    "currentPage": 1,
+    "totalPage": 1
+  },
+  "operatorCode": "0"
+}
